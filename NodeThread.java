@@ -9,8 +9,6 @@ import java.util.Scanner;
 import javax.json.Json;
 import javax.json.JsonObject;
 
-// https://www.youtube.com/watch?v=CcLOj3uhb0A
-
 public class NodeThread extends Thread
 {
 	private BufferedReader bReader;
